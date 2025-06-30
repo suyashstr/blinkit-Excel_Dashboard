@@ -94,8 +94,4 @@ To build an interactive Excel-based tool that:
 ![WhatsApp Image 2025-06-30 at 15 12 21_25172f67](https://github.com/user-attachments/assets/05c68d64-2d43-4ba8-8671-8e42e7ea7fea)
 
 
-You can host them using GitHub's image uploader or drag them into the README folder.
 
----
-
-Would you like me to convert this into a `.md` file so you can directly upload it to GitHub?
