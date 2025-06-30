@@ -9,7 +9,7 @@ An interactive and visually structured Excel dashboard built to monitor and anal
 
 ## **2. Short Description / Purpose**
 
-The Blinkit Excel Dashboard enables business analysts and operations managers to track product visibility and availability across locations in near real-time. It provides actionable insights into SKU-level gaps, pricing differences, and delivery issues that affect customer experience and revenue optimization.
+The Blinkit Excel Dashboard provides a visual summary of real-time product availability and visibility across regions. It is designed to help business analysts and supply chain teams identify inventory issues, pricing patterns, and delivery challenges across zones and outlet types for efficient operations.
 
 
 ## **3. Tech Stack**
@@ -93,5 +93,8 @@ To build an interactive Excel-based tool that:
 
 ![WhatsApp Image 2025-06-30 at 15 12 21_25172f67](https://github.com/user-attachments/assets/05c68d64-2d43-4ba8-8671-8e42e7ea7fea)
 
+### 🛠️ Future Enhancements
+- Include SKU-level (Item Identifier) tracking to highlight the most/least available products.
+- Add performance analysis by product and brand combinations.
 
 
