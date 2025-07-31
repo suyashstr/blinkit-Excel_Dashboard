@@ -10,7 +10,9 @@ An interactive and visually structured Excel dashboard built to monitor and anal
 <p align="center">
   <img src="./blinkit%20dashboard%20snapshot.jpg" alt="Blinkit Dashboard Snapshot" width="700"/>
 </p>
+
 ---
+
 
 ## **2. Short Description / Purpose**
 
