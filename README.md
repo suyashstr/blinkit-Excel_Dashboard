@@ -6,11 +6,11 @@
 
 An interactive and visually structured Excel dashboard built to monitor and analyze Blinkit's hyperlocal delivery data, focusing on product visibility, pricing, availability, and logistics across various Indian zones and categories.
 
----
+
 <p align="center">
   <img src="./blinkit%20dashboard%20snapshot.jpg" alt="Blinkit Dashboard Snapshot" width="700"/>
 </p>
-
+---
 ## **2. Short Description / Purpose**
 
 The Blinkit Excel Dashboard provides a visual summary of real-time product availability and visibility across regions. It is designed to help business analysts and supply chain teams identify inventory issues, pricing patterns, and delivery challenges across zones and outlet types for efficient operations.
